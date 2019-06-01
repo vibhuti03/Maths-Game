@@ -44,7 +44,7 @@ void mainscrn()
 	cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t=================================\n";
 	cout<<"\t\t\t\t\t\t\t\t\t\t\t\t=================================\n";
 	cout<<"\t\t\t\t\t\t\t\t\t\t\t\t=================================\n";
-	cout<<"\t\t\t\t\t\t\t\t\t\t\t\t           MATHS QUIZ \n";
+	cout<<"\t\t\t\t\t\t\t\t\t\t\t\t           MATHS GAME \n";
 	cout<<"\t\t\t\t\t\t\t\t\t\t\t\t=================================\n";
 	cout<<"\t\t\t\t\t\t\t\t\t\t\t\t=================================\n";
 	cout<<"\t\t\t\t\t\t\t\t\t\t\t\t=================================\n";
