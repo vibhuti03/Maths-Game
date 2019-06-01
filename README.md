@@ -1,2 +1,6 @@
 # Maths-Game
-It is a simple maths game with 25 levels and 3 lives
+Welcome to the game
+You remember elementary classes??
+Performing simple mathematical calculations again and again
+Well you got to do the same here too
+Let's see if you will score all coreect or not
